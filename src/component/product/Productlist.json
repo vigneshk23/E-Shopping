@@ -1,0 +1,65 @@
+{
+    "products" : [
+{
+    "_id": "1",
+    "title": "Iphone13 pro",
+    "src": "https://static.digit.in/default/3a9e046b7aeed0a2301de2598e8d3e6bd9d5880e.jpeg?tr=w-1200",
+    "price": "1,80,000",
+    "count": "1",
+    "description1":"1 TB ROM, 17.49 cm (6.1 inch)", 
+    "description2":"12MP + 12MP | 12MP Front Camera",
+    "description3":"A14 Bionic Chip with Next Generation",
+    "rating":"4.5",
+    "total":"1,80,000"
+},
+{
+    "_id": "2",
+    "title": "i Watch",
+    "src": "https://www.psdmockups.com/wp-content/uploads/2020/06/Apple-iWatch-Series-5-PSD-Mockup.jpg",
+    "price": "50,000",
+    "count": "1",
+    "description1":"2 GB ROM, 3 cm (1 inch)", 
+    "description2":"5MP  | 5MP Front Camera",
+    "description3":"A14 Bionic Chip with Next Generation",
+    "rating":"4",
+    "total":"50,000"
+},
+
+{
+    "_id": "3",
+    "title": "airpods",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XQVW8JOtxtluz-YVEzb8XLsL-lRT7b1Eog&usqp=CAU",
+    "price": "50,000",
+    "count": "1",
+    "description1":"1 cm (0.5 inch)", 
+    "description2":"dolby atmos",
+    "description3":"A14 Bionic Chip with Next Generation",
+    "rating":"3.5",
+    "total":"50,000"
+},
+
+{
+    "_id": "4",
+    "title": "macbook",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZnkXlGz4DvsfMlvfxcG094vDgJCHSE5S2A&usqp=CAU",
+    "price": "1,50,000",
+    "count": "1",
+    "description1":"2 TB ROM, 30 cm (7 inch)", 
+    "description2":"12MP Front Camera",
+    "description3":"A14 Bionic Chip with Next Generation",
+    "rating":"3.5",
+    "total":"1,50,000"
+},
+
+{
+    "_id": "5",
+    "title": "i mac",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQIl6AVfcj01zsYYT3tJNM4Rw7LvX9jKRCQ&usqp=CAU",
+    "price": "2,00,000",
+    "count": "1",
+    "description1":"2 TB ROM, 60 cm (14 inch)", 
+    "description2":"12MP + 12MP | 12MP Front Camera",
+    "description3":"A14 Bionic Chip with Next Generation",
+    "rating":"3.5",
+    "total":"2,00,000"
+}]}

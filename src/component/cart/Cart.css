@@ -1,0 +1,49 @@
+.imagesize{
+    height: 300px !important;
+    width: 300px !important;
+}
+
+.cardCart {
+    min-width: 800px;
+    min-height: 200px;
+    border: 1px solid #eee;
+    overflow: hidden;
+    padding: 10px;
+    box-shadow: 2px 8px 20px #ddd;
+    margin: 10px;
+    transition: 0.5s linear;
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+}
+
+.leftboxCart {
+    float:left; 
+    width:40%;
+    height:300px;
+}
+.rightboxCart{
+    float:right;
+    width:40%;
+    height:300px;
+}
+
+.buttonCart {
+    border: none;
+    outline: none;
+    background: #333;
+    color: white;
+    height: 40px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 15px 0;
+    padding: 5px;
+}
+
+.mainCart{
+        margin: auto;
+        width: 70%;
+        padding: 5px;
+}
